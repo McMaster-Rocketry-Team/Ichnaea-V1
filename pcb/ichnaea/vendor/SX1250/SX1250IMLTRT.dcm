@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SX1250IMLTRT
+D RF Front End RF Front End transceiver
+K
+F https://componentsearchengine.com/Datasheets/1/SX1250IMLTRT.pdf
+$ENDCMP
+#
+#End Doc Library
