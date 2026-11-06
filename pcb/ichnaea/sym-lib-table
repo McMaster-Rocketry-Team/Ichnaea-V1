@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SX1250IMLTRT")(type "KiCad")(uri "${KIPRJMOD}/vendor/SX1250/SX1250IMLTRT.kicad_sym")(options "")(descr ""))
+  (lib (name "SX1250IMLTRT_LIB")(type "Legacy")(uri "${KIPRJMOD}/vendor/SX1250/SX1250IMLTRT.lib")(options "")(descr ""))
+  (lib (name "SX1303IMLTRT")(type "KiCad")(uri "${KIPRJMOD}/vendor/SX1303/SX1303IMLTRT.kicad_sym")(options "")(descr ""))
+  (lib (name "SX1303IMLTRT_LIB")(type "Legacy")(uri "${KIPRJMOD}/vendor/SX1303/SX1303IMLTRT.lib")(options "")(descr ""))
+  (lib (name "CAM-M8Q-0")(type "KiCad")(uri "${KIPRJMOD}/vendor/CAM-M8Q-0/CAM-M8Q-0.kicad_sym")(options "")(descr ""))
+)
